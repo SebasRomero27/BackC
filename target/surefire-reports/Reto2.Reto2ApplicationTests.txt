@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Reto2.Reto2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.729 s - in Reto2.Reto2ApplicationTests

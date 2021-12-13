@@ -1,0 +1,11 @@
+Reto2\Interface\SupplementsInterface.class
+Reto2\Interface\UserInterface.class
+Reto2\Service\UserService.class
+Reto2\Model\User.class
+Reto2\Controller\SupplementsController.class
+Reto2\Reto2Application.class
+Reto2\Repository\UserRepository.class
+Reto2\Controller\UserController.class
+Reto2\Model\Supplements.class
+Reto2\Service\SupplementService.class
+Reto2\Repository\SupplementsRepository.class
